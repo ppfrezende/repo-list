@@ -1,9 +1,10 @@
+# Repo-List
 
 ## :black_nib: Sobre o projeto:
 
 Projeto adiciona/remove repositórios do GitHub (utilizando a API do mesmo), mostrando-os em uma lista com um campo ao lado esquerdo chamado ‘detalhes.
 
-No campo ‘detalhes’, é exibido lista com alguns detalhes do repositório assim como suas ‘Issues’, e cada ‘Issue’ mostra o perfil a qual ela foi atribuída com avatar, nome e label.
+No campo ‘detalhes’, é exibido lista com alguns detalhes do repositório assim como suas ‘Issues’, e cada ‘Issue’ mostra o perfil a qual ela foi atribuída com avatar, nome e label. Há também um filtro de estado para cada tipo de 'Issue' e uma paginação.
 
 ### :hammer: **Ferramentas utilizadas:**
 
