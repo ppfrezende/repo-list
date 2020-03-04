@@ -19,3 +19,6 @@ No campo ‘detalhes’, é exibido lista com alguns detalhes do repositório as
 
 ### :mortar_board:
 O projeto faz parte de um módulo do bootcamp ministrado pela RocketSeat.
+
+
+![video](https://github.com/ppfrezende/repo-list/blob/master/src/assets/Video1.gif?raw=true)
